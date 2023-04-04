@@ -7,7 +7,7 @@ require (
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 // indirect
 	github.com/fsnotify/fsnotify v1.6.0
 	github.com/godbus/dbus/v5 v5.1.0
-	github.com/linuxdeepin/go-gir v0.0.0-20211207134948-479a42104c80
+	github.com/linuxdeepin/go-gir v0.0.0-20230331033513-a8d7a9e89f9b
 	github.com/linuxdeepin/go-x11-client v0.0.0-20230131052004-7503e2337ee1
 	github.com/mozillazg/go-pinyin v0.19.0
 	github.com/smartystreets/goconvey v1.7.2
